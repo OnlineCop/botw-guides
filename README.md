@@ -14,7 +14,7 @@ This repo is organized into sections to help you locate the most up-to-date reso
 
 - [Apparatus Storage](/apparatus/README.md)
 - [Collaboration Resources](/collab/README.md)
-- [Invalid Slot Transfer](/ist/README.md)
+- [Inventory Slot Transfer](/ist/README.md)
 - [Prompt Entanglement](/pe/README.md)
 - [Online Tools](/tools/README.md)
 - [Weapon Modifier Corruption](/wmc/README.md)
