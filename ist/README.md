@@ -1,4 +1,4 @@
-# IST - Invalid Slot Transfer
+# IST - Inventory Slot Transfer
 
 ## Uses
 
