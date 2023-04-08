@@ -15,7 +15,7 @@ There is an alternate way to keep the Bow of Light that uses Prompt Entanglement
 
 - Requires knowledge of Prompt Entanglement.
 - Somewhat arduous with Arrow PE (although not impossible, and you can de-dupe the arrow slots before entering the Sanctum and hold on to the System tab invalid slot).
-- Annoying with high arrow counts that are still less then 500.
+- Annoying with high arrow counts that are still less than 500.
 
 ## Overview
 
