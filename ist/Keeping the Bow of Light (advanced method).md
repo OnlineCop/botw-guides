@@ -33,7 +33,7 @@ The PE method looks like this:
 1. Do any other general-purpose battle prep you want, as outlined in the main guide.
 1. Get [Star Icon Invalid Slot with 1 offset](../pe/SIIS%201%20Offset.md).
 1. Cook as many meals as you want. You will need to have at least 4 meals.
-1. Ensure your arrow stacks are each no higher than 100 (quicker to X-haul), or at least 700 (will not duplicate, even after heavy use against a boss).
+1. Ensure your arrow stacks are each no higher than 100 (quicker to X-haul), or well above 500 (will not duplicate, even after heavy use against a boss).
 1. Reduce your materials so that the tab contains the following:
 	1. 20 slots (a full single page) of edible materials, each of a quantity between 2 and 10.
 	1. A stack of fairies, no greater than 20. (Fairies count as 'edible' for PE, so it's okay if they appear mixed in with your other edibles).

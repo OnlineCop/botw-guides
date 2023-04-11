@@ -1,6 +1,6 @@
-# SIIS with 1 offset
+# Star Icon Invalid Slot with 1 offset
 
-1. Start a new game and get an autosave (call this `A1`).
+1. Start a new game without any offset and get an autosave (call this `A1`).
 1. Pick up the Sheikah Slate. If in Normal Mode, wait an additional 10–15 seconds with the game unpaused.
 1. Open one of the Armor chests and get an additional autosave (call this `A2`).
 1. Reload a progressed save and make 1 offset.
@@ -12,4 +12,4 @@
     1. Unpause.
     1. Pause again.
 1. Repeat these steps until the cursor does open over the Slate, then page left once.
-1. Reload a progressed save to bring SIIS with you.
+1. Reload a progressed save to bring the invalid slot with you.

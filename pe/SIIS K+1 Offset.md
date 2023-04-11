@@ -1,6 +1,7 @@
-# SIIS K+1 Offset
+# Star Icon Invalid Slot with K+1 Offset
 
 1. Get K+1 offset.
+1. Ensure you have at least one meal or material.
 1. Return to title and start a new game.
 1. When you get an autosave, reload it.
 1. Perform the following steps:
