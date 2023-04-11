@@ -42,8 +42,8 @@ The PE method looks like this:
 	1. Sell what you can.
 	1. You can get rid of unsellable armor you don't want by entangling a Food prompt and eating it.
 1. Use your page of edible Materials to eat any Key Items that don't match any of the following:
-	- Champion Powers obtained legitimately, that the game would give back to you anyway;
-	- The Travel Medallion, if you have placed it in the overworld;
+	- Champion Powers;
+	- The Travel Medallion, if you want to re-position it while reaching the Sanctum;
 	- Any stackable Key Item (Korok Seeds, Spirit Orbs, Champion Emblems) with a quantity of 500 or more.
 
 	If you have 2 pages of food, you won't get the right page alignment to do this. You can fix that like so:
