@@ -63,18 +63,18 @@ The PE method looks like this:
 
 If you die during any of the Blight/Calamity fights, you can reload your last autosave and keep playing. However, if you do this, you should eat any dupes of upgraded Champion Powers you might have.
 
-1. Enter the Sanctum and pause after the first round of cutscenes.
-1. Entangle food prompts to eat all armor. (Link will continue to wear the armor, and get any status effects from it.)
-1. Defeat Calamity Ganon (and any Blights that appear) in the Sanctum.
+1. Enter the Sanctum and defeat any Blights that appear.
+1. Defeat Calamity Ganon.
 	- As before, you can use any weapons, bows, and shields in these fights.
 	- You can use arrows, as long as you don't pull any large arrow stacks below 500.
-	- You can eat any food, now that your inventory has no armor in it.
+	- You can eat any food, as long as you keep one meal.
 	- You can use fairies, but do not touch the other materials.
 
 ## Dark Beast
 
 1. Enter the Dark Beast Ganon fight and pick up the Bow of Light.
 1. Jump off your horse and stand on the ground, so that Link is willing to hold things, and pause.
+1. Use your remaining food to eat all armor. If you have no food left, make a roasted ingredient from one of your materials.
 1. X-haul and eat your low arrow stacks:
 	1. Find the material on the first page of your Materials tab that occupies the same row and column as the arrow stack.
 	1. Get the cursor on that cell in an off-screen page, and make sure it isn't desynced.
