@@ -28,7 +28,7 @@ Since you'll have to defeat Calamity Ganon to get to the BoL in the first place,
 
 Redeeming some Key Items can make the fight easier, and maybe even reduce how much offset you'll need:
 
-- Redeem as many Spirit Orbs as you can. If you have a multiple of 4, the slot will disappear from your inventory.
+- Redeem as many Spirit Orbs as you can. If you redeem your last 4, the slot will disappear from your inventory.
 - Spend Korok Seeds to get equipment slot upgrades. If you can spend all of your seeds this way, the slot will disappear from your inventory.
 - If you have 3 of any of the Champion's Emblems, redeem them at their appropriate Divine Beast to remove them from your inventory. Don't attempt the Blight refight, just leave immediately.
 
@@ -44,13 +44,13 @@ You want to minimize the number of items in your Inventory before you generate a
 1. Armor always duplicates, so make 2 offset for every piece of unsellable armor you have (as well for any sellable armor you explicitly want to use in the fights). Sell all other armor.
 1. Materials can be dropped during the fight, but this takes time. Sell all materials (except fairies), and don't make offset for them.
 1. Food can be eaten at any time, so don't make offset for it. You should sell any high-quantity roasted and frozen ingredients to save time later.[^icfood]
-1. Key Items cannot be reduced during the DBG fight, so make offset for each slot. You need to make 2 offset for the following[^s500+]:
+1. Key Items cannot be reduced during the DBG fight, so make offset for each slot. You need to make an additional 1 offset for each the following[^s500+]:
     - Korok Seeds;
     - Spirit Orbs;
     - Champion Emblems;
     - **Upgraded** Champion Powers, if you obtained them legitimately on this file. (Upgraded champion powers that you only have because you transferred them in from another save will not duplicate, and you can count them once.)
 
-[^s500+]: If a stack is at 500 or more, it won't duplicate, and you only need 1 offset for it. However, be careful when doing this with arrows. If you use enough of these arrows in battle that the stack drops to _below_ 500, it will duplicate and you'll be down an offset slot. I recommend only doing this with arrow stacks at 700 or more.
+[^s500+]: If a stack is at 500 or more, it won't duplicate, and you only need 1 offset for it. However, be careful when doing this with arrows. If you use enough of these arrows in battle that the stack drops to _below_ 500, it will duplicate and you'll be down an offset slot.
 
 [^icfood]: You should also sell any meals/elixirs with corrupted quantities, if you made those.
 
