@@ -16,5 +16,5 @@
 	[Pause] [Inventory] [Page right] [Unpause] [Pause] [Inventory] [Page right]
 	```
 
-1. Head to the System tab `[R]`. If the cursor doesn't appear, you have SIIS. Move the cursor right to bring it back on-screen.
+1. Head to the System tab `[R]` and press D-pad left. If the cursor disappears, you have SIIS. Press D-pad right to bring it back on-screen.
 1. Reload your progressed autosave.
